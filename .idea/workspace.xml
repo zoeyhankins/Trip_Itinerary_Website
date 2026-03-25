@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="38bc9a09-ee26-455b-b31b-621ef711f8ee" name="Changes" comment="Adding APK file and removing image.">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-utilities.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-utilities.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-utilities.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-utilities.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.esm.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.esm.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.esm.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js.map" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;zoeyhankins&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/zoeyhankins/Trip_Itinerary_Website.git&quot;,
+    &quot;accountId&quot;: &quot;30eb9fef-3ad4-4430-8a31-1edf710f3182&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3AYKTCc5YS9ySNGCFt6p0eGpVEO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zoeym\IdeaProjects\Trip_Itinerary_Website" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38bc9a09-ee26-455b-b31b-621ef711f8ee" name="Changes" comment="" />
+      <created>1772764071197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772764071197</updated>
+      <workItem from="1772764072315" duration="967000" />
+      <workItem from="1772765155358" duration="5136000" />
+      <workItem from="1772915863228" duration="325000" />
+      <workItem from="1774399630876" duration="335000" />
+    </task>
+    <task id="LOCAL-00001" summary="Title page.">
+      <option name="closed" value="true" />
+      <created>1772764239780</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772764239782</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Title page.">
+      <option name="closed" value="true" />
+      <created>1772764514246</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1772764514246</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initiating CSS page.">
+      <option name="closed" value="true" />
+      <created>1772765037656</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1772765037656</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Using internal CSS styling instead.">
+      <option name="closed" value="true" />
+      <created>1772775208686</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1772775208686</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adding APK file and removing image.">
+      <option name="closed" value="true" />
+      <created>1774399832540</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1774399832540</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Title page." />
+    <MESSAGE value="Initiating CSS page." />
+    <MESSAGE value="Using internal CSS styling instead." />
+    <MESSAGE value="Adding APK file and removing image." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding APK file and removing image." />
+  </component>
+</project>
