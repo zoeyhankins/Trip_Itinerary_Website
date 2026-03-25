@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38bc9a09-ee26-455b-b31b-621ef711f8ee" name="Changes" comment="H2.">
+    <list default="true" id="38bc9a09-ee26-455b-b31b-621ef711f8ee" name="Changes" comment="Adding source code to GitHub.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,16 +58,24 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/zoeym/IdeaProjects/Trip_Itinerary_Website&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zoeym\IdeaProjects\Trip_Itinerary_Website" />
+      <recent name="C:\Users\zoeym\IdeaProjects\Trip_Itinerary_Website\SourceCode" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\zoeym\IdeaProjects\Trip_Itinerary_Website" />
     </key>
@@ -92,6 +101,8 @@
       <workItem from="1774399630876" duration="335000" />
       <workItem from="1774400222007" duration="418000" />
       <workItem from="1774400721890" duration="27000" />
+      <workItem from="1774403855927" duration="1475000" />
+      <workItem from="1774459641491" duration="1331000" />
     </task>
     <task id="LOCAL-00001" summary="Title page.">
       <option name="closed" value="true" />
@@ -141,7 +152,23 @@
       <option name="project" value="LOCAL" />
       <updated>1774400495401</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Adding source code to GitHub.">
+      <option name="closed" value="true" />
+      <created>1774403975943</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1774403975943</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Adding source code to GitHub.">
+      <option name="closed" value="true" />
+      <created>1774404146336</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1774404146336</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +180,7 @@
     <MESSAGE value="Using internal CSS styling instead." />
     <MESSAGE value="Adding APK file and removing image." />
     <MESSAGE value="H2." />
-    <option name="LAST_COMMIT_MESSAGE" value="H2." />
+    <MESSAGE value="Adding source code to GitHub." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding source code to GitHub." />
   </component>
 </project>
