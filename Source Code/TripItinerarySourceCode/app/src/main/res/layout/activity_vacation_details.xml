@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/plane_view"
+    android:backgroundTint="#99FFFFFF"
+    android:backgroundTintMode="src_over"
+    tools:context=".UI.VacationDetails">
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="408dp"
+        android:layout_height="217dp"
+        android:layout_marginTop="40dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="395dp"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dp"
+                    android:padding="10dp"
+                    android:text="@string/vacation_title"
+                    android:textSize="16sp" />
+
+                <EditText
+                    android:id="@+id/titletext"
+                    android:layout_width="283dp"
+                    android:layout_height="50dp"
+                    android:hint="@string/vacation_title2"
+                    android:importantForAutofill="no"
+                    android:inputType="text"
+                    android:textStyle="italic" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="125dp"
+                    android:layout_height="50dp"
+                    android:padding="10dp"
+                    android:text="@string/hotel_name"
+                    android:textSize="16sp" />
+
+                <EditText
+                    android:id="@+id/hoteltext"
+                    android:layout_width="284dp"
+                    android:layout_height="50dp"
+                    android:hint="@string/hotel_name2"
+                    android:importantForAutofill="no"
+                    android:inputType="text"
+                    android:textStyle="italic" />
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/startDate"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginBottom="12dp"
+                android:ems="10"
+                android:fontFamily="sans-serif-black"
+                android:inputType="date"
+                android:insetLeft="0dp"
+                android:padding="10dp"
+                android:text="@string/start_date"
+                android:textStyle="bold"
+                app:backgroundTint="#DD2C00"
+                tools:ignore="TextViewEdits" />
+
+            <Button
+                android:id="@+id/endDate"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginBottom="12dp"
+                android:ems="10"
+                android:fontFamily="sans-serif-black"
+                android:inputType="date"
+                android:insetLeft="0dp"
+                android:padding="10dp"
+                android:text="@string/end_date"
+                android:textStyle="bold"
+                app:backgroundTint="#DD2C00"
+                tools:ignore="TextViewEdits" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/fabContainer"
+        android:layout_width="157dp"
+        android:layout_height="75dp"
+        android:layout_margin="16dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:backgroundTint="#DD2C00"
+            android:clickable="true"
+            android:fontFamily="sans-serif-black"
+            android:text="@string/add_excursion"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/excursionrecyclerview"
+        android:layout_width="392dp"
+        android:layout_height="455dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        app:layout_constraintBottom_toTopOf="@+id/fabContainer"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/scrollView"
+        tools:ignore="RtlHardcoded" />
+</androidx.constraintlayout.widget.ConstraintLayout>
