@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38bc9a09-ee26-455b-b31b-621ef711f8ee" name="Changes" comment="Final document changes." />
+    <list default="true" id="38bc9a09-ee26-455b-b31b-621ef711f8ee" name="Changes" comment="Changed PDF file. Final change.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,6 +108,9 @@
       <workItem from="1774642339254" duration="859000" />
       <workItem from="1774643757043" duration="177000" />
       <workItem from="1774650125380" duration="66000" />
+      <workItem from="1774650257437" duration="104000" />
+      <workItem from="1774650447153" duration="2000" />
+      <workItem from="1774651503967" duration="884000" />
     </task>
     <task id="LOCAL-00001" summary="Title page.">
       <option name="closed" value="true" />
@@ -203,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774650171535</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Changed PDF file. Final change.">
+      <option name="closed" value="true" />
+      <created>1774650348161</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1774650348161</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,6 +232,7 @@
     <MESSAGE value="Adding APK file." />
     <MESSAGE value="Adding .ZIP file for development purposes." />
     <MESSAGE value="Final document changes." />
-    <option name="LAST_COMMIT_MESSAGE" value="Final document changes." />
+    <MESSAGE value="Changed PDF file. Final change." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed PDF file. Final change." />
   </component>
 </project>
