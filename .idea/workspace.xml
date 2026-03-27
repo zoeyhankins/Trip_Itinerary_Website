@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38bc9a09-ee26-455b-b31b-621ef711f8ee" name="Changes" comment="Adding .ZIP file for development purposes.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="38bc9a09-ee26-455b-b31b-621ef711f8ee" name="Changes" comment="Final document changes." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,6 +104,7 @@
       <workItem from="1774494958133" duration="795000" />
       <workItem from="1774495946800" duration="90000" />
       <workItem from="1774642339254" duration="859000" />
+      <workItem from="1774643757043" duration="177000" />
     </task>
     <task id="LOCAL-00001" summary="Title page.">
       <option name="closed" value="true" />
@@ -188,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774495647675</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Final document changes.">
+      <option name="closed" value="true" />
+      <created>1774643909632</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1774643909632</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,6 +209,7 @@
     <MESSAGE value="Adding source code to GitHub." />
     <MESSAGE value="Adding APK file." />
     <MESSAGE value="Adding .ZIP file for development purposes." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding .ZIP file for development purposes." />
+    <MESSAGE value="Final document changes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Final document changes." />
   </component>
 </project>
