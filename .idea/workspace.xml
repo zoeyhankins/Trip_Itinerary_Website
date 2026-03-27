@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38bc9a09-ee26-455b-b31b-621ef711f8ee" name="Changes" comment="Adding APK file.">
-      <change afterPath="$PROJECT_DIR$/TripItinerary.zip" afterDir="false" />
+    <list default="true" id="38bc9a09-ee26-455b-b31b-621ef711f8ee" name="Changes" comment="Adding .ZIP file for development purposes.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -56,6 +55,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
@@ -104,7 +104,9 @@
       <workItem from="1774400721890" duration="27000" />
       <workItem from="1774403855927" duration="1475000" />
       <workItem from="1774459641491" duration="3658000" />
-      <workItem from="1774494958133" duration="663000" />
+      <workItem from="1774494958133" duration="795000" />
+      <workItem from="1774495946800" duration="90000" />
+      <workItem from="1774642339254" duration="859000" />
     </task>
     <task id="LOCAL-00001" summary="Title page.">
       <option name="closed" value="true" />
@@ -178,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774461209998</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Adding .ZIP file for development purposes.">
+      <option name="closed" value="true" />
+      <created>1774495647675</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1774495647675</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +202,7 @@
     <MESSAGE value="H2." />
     <MESSAGE value="Adding source code to GitHub." />
     <MESSAGE value="Adding APK file." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding APK file." />
+    <MESSAGE value="Adding .ZIP file for development purposes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding .ZIP file for development purposes." />
   </component>
 </project>
